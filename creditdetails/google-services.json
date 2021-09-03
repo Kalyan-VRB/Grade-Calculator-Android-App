@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "505303681533",
+    "project_id": "grade-calculator-45efa",
+    "storage_bucket": "grade-calculator-45efa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505303681533:android:0f80cdcf0e1b6d18e13194",
+        "android_client_info": {
+          "package_name": "com.example.creditdetails"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505303681533-g3a0b4cii9kcslbc6n82sevvkrd8bvkh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx8E6x3Q1NtNErOa7JHhxkZ5QvGIWhkDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505303681533-g3a0b4cii9kcslbc6n82sevvkrd8bvkh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
